@@ -1,0 +1,14 @@
+Create project in react JS
+
+terminal - New terminal
+
+npx create-react-app hello
+
+==============================
+
+To run project Go in terminal 
+
+npm start
+
+==============================
+
